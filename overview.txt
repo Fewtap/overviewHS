@@ -1,0 +1,13 @@
+Rom #	Romtype	Romklasse	Book.#	Kundenavn	Ankomst	Netter	Avreise	Status	Prisklasse	Anmerking	
+4124 	L6   	Hovdestøylen Leiligheter	016483    	Studentweekend	11.01.2024 00:00:00	3	14.01.2024 00:00:00	Bekreftet	USELV	Holdt av helgen // TBA	
+4124 	L6   	Hovdestøylen Leiligheter	030275    	Nygaard, Niels	11.02.2024 00:00:00	4	15.02.2024 00:00:00	Bekreftet	SELV		
+4124 	L6   	Hovdestøylen Leiligheter	025244    	Ring Digital AS	16.02.2024 00:00:00	2	18.02.2024 00:00:00	Bekreftet	5SELV		
+4124 	L6   	Hovdestøylen Leiligheter	022778    	Nato Jwc	25.02.2024 00:00:00	5	01.03.2024 00:00:00	Bekreftet	15SEL	Barn 7 år	
+4124 	L6   	Hovdestøylen Leiligheter	025178    	UiA	03.03.2024 00:00:00	3	06.03.2024 00:00:00	Bekreftet	USELV		
+4124 	L6   	Hovdestøylen Leiligheter	027412    	UiA	10.03.2024 00:00:00	4	14.03.2024 00:00:00	Bekreftet	USELV		
+4124 	L6   	Hovdestøylen Leiligheter	026209    	Å Energi AS	15.03.2024 00:00:00	2	17.03.2024 00:00:00	Bekreftet	UFRO		
+4124 	L6   	Hovdestøylen Leiligheter	029100    	Bouvet Norge AS	19.04.2024 00:00:00	2	21.04.2024 00:00:00	Bekreftet	UFRO		
+4124 	L6   	Hovdestøylen Leiligheter	028820    	UiA	29.05.2024 00:00:00	2	31.05.2024 00:00:00	Bekreftet	KK		
+4124 	L6   	Hovdestøylen Leiligheter	024832    	Rekordfestivalen	09.08.2024 00:00:00	2	11.08.2024 00:00:00	Bekreftet	50SEL		
+4124 	L6   	Hovdestøylen Leiligheter	026892    	Asko Agder AS 	14.10.2024 00:00:00	2	16.10.2024 00:00:00	Bekreftet	UFRO		
+4124 	L6   	Hovdestøylen Leiligheter	029220    	Agder Fylkeskommune	24.10.2024 00:00:00	1	25.10.2024 00:00:00	Bekreftet	KK	Buy out, inga andre gjester på hotellet/ restaurant	
